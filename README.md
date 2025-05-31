@@ -1,0 +1,2 @@
+# Student Management System with Django
+A comprehensive Student Management System built with Django. This web application allows administrators, teachers, and students to efficiently manage academic activities. Core features include user authentication, student registration, course management, attendance tracking, grade recording, and performance reports. Ideal for schools, colleges, or online education platforms.
